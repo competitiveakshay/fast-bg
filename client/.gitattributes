@@ -1,0 +1,5 @@
+# Force LF line endings for all files
+* text=auto
+
+# Ensure binary files are not converted
+*.svg binary
